@@ -9,9 +9,11 @@ html {
 }
 
 @media only screen and (min-width: 1196px) {
-    body {
-        background-color: lightblue;
-    }
+  #bear {
+    position: absolute;
+    top: 100px;
+    right: 0;
+  }
 }
 /* Write your solution here */
 
