@@ -20,10 +20,10 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (min-width: 406px) and (max-width: 1170px) {
-  #monkey {
+@media only screen and (min-width: 642px) and (max-width: 1090px) {
+  #dolphin {
     position: absolute;
-    top: 0px;
-    right: 120px;
+    top: 400px;
+    right: 0;
   }
 }
